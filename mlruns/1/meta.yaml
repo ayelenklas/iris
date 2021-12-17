@@ -1,0 +1,4 @@
+artifact_location: file:///Users/ayelenklas/code/ayelenklas/data-challenges/07-Data-Engineering/02-ML-Iteration/iris/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: TF
